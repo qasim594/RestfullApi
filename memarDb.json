@@ -1,0 +1,51 @@
+[
+
+    {
+        "name":"aqif",
+        "company":"almemar",
+        "work_type":"store & arbian B",
+        "salary":"50k",
+        "experience": " 3 year"
+    
+    },
+    {
+        "name":"umer farooq",
+        "company":"almemar",
+        "work_type":"store & arbian B",
+        "salary":"50k",
+        "experience": " 4 year"
+    
+    },
+    {
+        "name":"nabeel ahmed",
+        "company":"almemar",
+        "work_type":"store & arbian B",
+        "salary":"90k",
+        "experience": " 2 year"
+    
+    },
+    {
+        "name":"afarooq shah",
+        "company":"almemar",
+        "work_type":"store & arbian B",
+        "salary":"70k",
+        "experience": " 8 year"
+    
+    },
+    {
+        "name":"madaki",
+        "company":"almemar",
+        "work_type":"store & arbian B",
+        "salary":"40k",
+        "experience": " 7 year"
+    
+    },
+    {
+        "name":"sefaqoo",
+        "company":"almemar",
+        "work_type":"store & arbian B",
+        "salary":"80k",
+        "experience": " 3 year"
+    
+    }
+    ]
